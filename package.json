@@ -1,0 +1,30 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "The task is to utilize the command line to create a note taking app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sensational11/Note-Taker.git"
+  },
+  "keywords": [
+    "assignment-11",
+    "note-tatker",
+    "express-js",
+    "challenge",
+    "back-end"
+  ],
+  "author": "M.Nelson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sensational11/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/sensational11/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
