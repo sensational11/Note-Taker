@@ -6,7 +6,7 @@ This challenge wanted us to demonstrate how to use express to connect the front-
 ## Table of Contents
 -[Installation](#installation)
 -[Usage](#usage)
--[Credts](#credits)
+-[Credits](#credits)
 -[License](#license)
 
 ## Installation
