@@ -4,10 +4,11 @@ const express = require("express");
 const path = require("path");
 
 
-const apiRoutes = require("./apiroute/myApiRoute");
+
 
 //this is calling express
 const app = express();
+const apiRoutes = require("./apiroute/myApiRoute");
 const htmlRoutes = require("./apiroute/myRoutehtml");
 
 //this is setting the port for the server to use.
