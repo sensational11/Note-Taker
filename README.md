@@ -9,7 +9,7 @@ This challenge wanted us to demonstrate how to use express to connect the front-
 -[Credts](#credits)
 -[License](#license)
 
-## Insatllation
+## Installation
 The first step for installation is to download and configure node.js to work with visual studio code. The second step is downloding the express npm package. Express is what we will be using for our routes for our webpages. 
 
 ## Usage
